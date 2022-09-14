@@ -14,8 +14,8 @@ jobs:
       uses: sphinx-notes/pages@master
       with:
         extra_files: |
-          CNAME
-          LICENSE
+          #CNAME
+          #LICENSE
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
