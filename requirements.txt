@@ -1,0 +1,7 @@
+sphinx
+myst-parser
+cloud-sptheme
+sphinxcontrib-images
+
+# for spelling
+pyspelling
