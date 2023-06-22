@@ -1,3 +1,5 @@
 venv
 _build
 *.swp
+__pycache__
+output
