@@ -1,12 +1,13 @@
 AUTHOR = 'gucio321'
 SITENAME = 'The Greater Heptavirate'
 SITEURL = ''
+THEME = "./theme"
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Warsaw'
 
-DEFAULT_LANG = 'pl'
+DEFAULT_LANG = 'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -16,14 +17,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Visit us on GitHub', 'https://github.com/TheGreaterHeptavirate'),
+         ('Our UI framework.', 'https://github.com/AllenDang/giu'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
 
