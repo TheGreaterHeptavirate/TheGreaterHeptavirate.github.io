@@ -1,6 +1,6 @@
 AUTHOR = 'gucio321'
 SITENAME = 'The Greater Heptavirate'
-SITEURL = 'https://thegreaterheptavirate.github.io/'
+SITEURL = 'https://thegreaterheptavirate.github.io'
 THEME = "./theme"
 
 PATH = 'content'
