@@ -17,12 +17,12 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Visit us on GitHub', 'https://github.com/TheGreaterHeptavirate'),
-         ('Our UI framework.', 'https://github.com/AllenDang/giu'),)
+#LINKS = (('Visit us on GitHub', 'https://github.com/TheGreaterHeptavirate'),
+#         ('Our UI framework.', 'https://github.com/AllenDang/giu'),)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+SOCIAL = (('Visit us on GitHub', 'https://github.com/TheGreaterHeptavirate'),
+         ('Our UI framework.', 'https://github.com/AllenDang/giu'),)
 
 DEFAULT_PAGINATION = 10
 
