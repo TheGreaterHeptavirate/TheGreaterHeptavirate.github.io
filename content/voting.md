@@ -1,7 +1,9 @@
-Title: Głosowanie na nazwę
+Title: Project name voting
 Date: 2023-06-21 21:50
 Category: Timetable Generator
 
-Zapraszamy wszystkich do udziału w głosowaniu na nazwę dla naszego projektu.
-Projekt to aplikacja służąca do generowania planów lekcji.
-Ankieta znajduje się [tutaj](https://docs.google.com/forms/d/e/1FAIpQLSc8Dz6YpOoUTnn4z2DEaYm9p1YZoTmwzH1sBy_lIvoRW_E0QQ/viewform?usp=sf_link).
+Hi everyone!
+Welcome to vote for a name for our new project.
+The project will be a generator of school timetables.
+Pool is available [here](https://docs.google.com/forms/d/e/1FAIpQLSc8Dz6YpOoUTnn4z2DEaYm9p1YZoTmwzH1sBy_lIvoRW_E0QQ/viewform?usp=sf_link).
+Thank you for taking part!
